@@ -7,7 +7,7 @@ Have you ever wanted to lose weight, impress your boss, meet beautiful women, an
 
 This tool does none of those things.
 
-It does however take wordlists and removes content clients and cusomters may find objectionable.
+It does however take wordlists and removes content clients and customers may find objectionable.
 
 How objectionable you ask? Well lets just say that we can confidently assert that any wordlist sanitized via The Businessifier is safe to pass a rigourous inspection by even the most conservative and discerning clients, or your money back (see GPL in repo).
 
