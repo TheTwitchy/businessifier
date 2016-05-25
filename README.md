@@ -2,22 +2,22 @@
 
 The best businessification tool on the Internets.
 
-##Introduction
+## What?
 Have you ever wanted to lose weight, impress your boss, meet beautiful women, and finally get that promotion?
 
-This tool does none of those things.
+If so, sorry, we can't help you.
 
-It does however take wordlists and removes content clients and customers may find objectionable.
+The Businessifier is a wordlist sanitation tool, and will remove objectionable content from wordlists, ranging from swear words to words that get you flagged by your favorite TLA.
 
-How objectionable you ask? Well lets just say that we can confidently assert that any wordlist sanitized via The Businessifier is safe to pass a rigourous inspection by even the most conservative and discerning clients, or your money back (see GPL in repo).
+We can confidently assert that any wordlist sanitized via The Businessifier is safe to pass a rigourous inspection by even the most conservative and discerning clients, or your money back (GPL included in repo).
 
-Our crack team of Internet experts has worked around the clock to ensure that The Businessifier Detection Engine is kept current with the most cutting edge swear words and objectionable content from the dark corners of the Nets. This includes words such as f\*\*k, p\*\*n, and even the rarely seen a\*\*\*\*\*2.
+## Why?
+Because your clients are normally very serious about business, searches for vulgar language may raise questions about your competency as a service provider, as well as as well as your general likeability and choice of fashion. The Businessifier will help prevent offensive searches, thereby reducing the number of late night phone calls you receive from angry customers.
+
+## How?
+Our crack team of Internet experts has worked around the clock to ensure that The Businessifier Detection Engine (TM) is kept current with the most cutting edge swear words and objectionable content from the dark corners of the Web. This includes words such as f\*\*k, p\*\*n, and even the rarely seen a\*\*\*\*\*n.
 
 Scientific tests performed by real people wearing labs coats has shown that regular use of The Businessifier can increase client satisfaction by as much as 33%.
-
-So ask yourself; Can you afford *not* to use it?
-
-No. No you can't.
 
 ##Features
   - Sanitize wordlists with ease!
@@ -85,9 +85,9 @@ and include the word and wordlist source.
 
 ##FAQs
   - Who in the world is this for?
-      - This is for anyone who wants to not have to explain to a client why they searched for "pr0n" on a system where very serious businessing happens.
+      - This is for anyone who wants to not have to explain to a client why they searched for "porn" on thier systems.
   - What wordlists were used to build the initial searches?
-      - The dirb common wordlist was the main one, but we've noticed it works with most common wordlists for web directory brute forcing.
+      - The dirb common wordlist was the main one, but it seems to work with most common wordlists for web directory and file brute forcing.
   - Will this work with a password list for an online brute force attack?
       - Probably, but maybe glance through the final wordlist to make sure it didn't miss anything. It should grab most of the obvious stuff, but something huge like rockyou will probably let a lot slip through the cracks.
   - Will this work with a password list for an offline brute force attack?
