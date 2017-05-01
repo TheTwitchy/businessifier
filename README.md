@@ -19,7 +19,7 @@ Our crack team of Internet experts has worked around the clock to ensure that Th
 
 Scientific tests performed by real people wearing labs coats has shown that regular use of The Businessifier can increase client satisfaction by as much as 33%.
 
-##Features
+## Features
   - Sanitize wordlists with ease!
   - Detection based on real wordlists!
   - Written in Python!
@@ -28,7 +28,7 @@ Scientific tests performed by real people wearing labs coats has shown that regu
   - Gluten free!
   - Commented!
 
-##Example Usage
+## Example Usage
 ```sh
 root@kali:~/tools/businessifier# ./businessifier.py --help
 usage: businessifier [-h] [-v] [-c CONFIGFILE] [-i INPUT] [-o OUTPUT]
@@ -83,7 +83,7 @@ and include the word and wordlist source.
 
 ```
 
-##FAQs
+## FAQs
   - Who in the world is this for?
       - This is for anyone who wants to not have to explain to a client why they searched for "porn" on thier systems.
   - What wordlists were used to build the initial searches?
